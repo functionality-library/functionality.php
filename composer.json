@@ -1,0 +1,22 @@
+{
+    "name": "functionality/functionality.php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Functionality\\FunctionalityPhp\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "authors": [
+        {
+            "name": "Omar Khaled",
+            "email": "omar.dev.work@outlook.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
