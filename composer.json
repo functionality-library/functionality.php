@@ -1,7 +1,12 @@
 {
-    "name": "functionality/functionality.php",
+    "name": "functionality-library/functionality.php",
+    "description": "This Is A Php Library To Make Your Work Easier/Faster",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
+    "scripts": {
+        "test": "phpunit --verbose tests"
+    },
     "autoload": {
         "psr-4": {
             "Functionality\\FunctionalityPhp\\": "src/"
