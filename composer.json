@@ -1,7 +1,7 @@
 {
     "name": "functionality-library/functionality.php",
     "description": "This Is A Php Library To Make Your Work Easier/Faster",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "library",
     "license": "MIT",
     "scripts": {
