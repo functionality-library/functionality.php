@@ -2,9 +2,9 @@
 
 <p float="right">
 <!-- License -->
-<img src="https://img.shields.io/github/license/functionality-library/functionality.php" />
+<img src="https://img.shields.io/github/license/functionality-library/functionality.php?style=for-the-badge" />
 <!-- Stars -->
- <img src="https://img.shields.io/github/stars/functionality-library/functionality.php" />
+ <img src="https://img.shields.io/github/stars/functionality-library/functionality.php?style=for-the-badge" />
 </p>
 
 ## About ✍️
